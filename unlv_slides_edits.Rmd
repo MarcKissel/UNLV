@@ -174,15 +174,6 @@ tital to here is about 26 mins
 
 ---
 
-
-class: inverse, center, middle 
-
-#When did human warfare evolve?
-
-![](images/new.png)
-
-
----
 class: center, inverse
 
 #Warfare in our evolutionary past
@@ -213,6 +204,13 @@ ____________________________________
 ???
 
 Organized aggression and violence between socially distinct or autonomous groups of people This paper
+
+---
+class: inverse, center, middle 
+
+#When did human warfare evolve?
+
+![](images/new.png)
 
 
 ---
@@ -535,6 +533,7 @@ _______________________
 
 - Agustin Fuentes
 - John Hawks
+- Debra Martin
 - Celia Deane-Drummond
 - Julia Feder
 - Jennifer French

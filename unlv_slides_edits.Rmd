@@ -567,6 +567,25 @@ _______________________
 ---
 
 ---
+
+---
+
+class: inverse 
+background-image:url(UNLV_images/MMM_1.png) 
+background-size: contain
+background-position: center bottom
+
+---
+
+
+class: inverse 
+background-image:url(UNLV_images/MMM_2.png) 
+background-size: contain
+background-position: center bottom
+
+
+
+---
 name: overview
 class: center, inverse
 

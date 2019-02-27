@@ -89,12 +89,12 @@ a, a > code {
   color: #002b36;
 }
 .title-slide, .title-slide h1, .title-slide h2, .title-slide h3 {
-  color: #1E90FF;
+  color: #002b36;
 }
 .title-slide {
   background-color: #fdf6e3;
-  background-image: url(https://raw.githubusercontent.com/MarcKissel/Talks/master/UNLV_images/background.png);
-  background-size: cover;
+  
+  
   
 }
 .title-slide .remark-slide-number {

@@ -57,7 +57,7 @@ class: center, inverse
 #Questions
 ____________________
 
-#How did hominins become human?
+#How did hominins become human? and why?
 
 #What can collective violence tell us about how we became human?
 
